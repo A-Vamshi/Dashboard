@@ -25,7 +25,7 @@ function App() {
                 dataProvider={dataProvider}
                 liveProvider={liveProvider}
                 notificationProvider={useNotificationProvider}
-                routerProvider={routerBindings}
+                routerProvider={routerBindings} 
                 // authProvider={authProvider}
                 options={{
                   syncWithLocation: true,
