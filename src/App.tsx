@@ -16,6 +16,9 @@ import { App as AntdApp } from "antd";
 import { BrowserRouter, Outlet, Route, Routes } from "react-router-dom";
 import Layout from "./components/layout";
 import { resources } from "./config/resources";
+import Companies from "./pages/companies/list";
+import Tasks from "./pages/tasks/list";
+
 
 function App() {
   return (
@@ -53,6 +56,12 @@ function App() {
                     }
                   >
                     <Route index element={<Home />} />
+                    <Route path="/companies" >
+                      <Route index element={<Companies />} />
+                    </Route>
+                    <Route path="/tasks">
+                      <Route index element={<Tasks />} />
+                    </Route>
                   </Route>
                 </Routes>
                 <RefineKbar />
