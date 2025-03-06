@@ -88,4 +88,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any queries or suggestions, reach out via [LinkedIn](https://linkedin.com/in/vamshi) or email at vamshi@example.com.
+For any queries or suggestions, reach out via [LinkedIn](https://linkedin.com/in/a-vamshi) or email at vamshi.edustudy@gmail.com
