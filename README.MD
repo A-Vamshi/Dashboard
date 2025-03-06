@@ -4,6 +4,7 @@
 <img src="/assets/4.png" alt="drawing" />
 <img src="/assets/5.png" alt="drawing" />
 <img src="/assets/6.png" alt="drawing" />
+<img src="/assets/7.png" alt="drawing" />
 A powerful and customizable dashboard built using [Refine](https://refine.dev/), designed to streamline data management and visualization with an intuitive user interface.
 
 ## Features
