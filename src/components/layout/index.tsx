@@ -6,7 +6,7 @@ const Layout = ({ children }: React.PropsWithChildren) => {
   return (
     <ThemedLayoutV2
      Header={Header}
-     Title={(titleProps) => <ThemedTitleV2 {...titleProps} text="CricUnity" />}
+     Title={(titleProps) => <ThemedTitleV2 {...titleProps} text="Dashboard" />}
     >
      {children}
     </ThemedLayoutV2>
